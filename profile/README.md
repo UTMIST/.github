@@ -16,17 +16,17 @@ We’re a cross-campus community of engineers, scientists, designers, and thinke
 
 ## 🔗 Get Involved
 
-- 💬 [Join our Discord](https://discord.gg/utmist)  
-- 🌐 [Visit our Website](https://utmist.gitlab.io)  
-- 📷 [Follow us on Instagram](https://instagram.com/utmist)  
-- 🧑‍💼 [Connect on LinkedIn](https://linkedin.com/company/utmist)  
-- 📨 [Subscribe to our Newsletter](https://utmist.substack.com)
+- 💬 [Join our Discord](https://discord.com/invite/88mSPw8)  
+- 🌐 [Visit our Website](https://utmist.ca)  
+- 📷 [Follow us on Instagram](https://www.instagram.com/uoft_utmist/)  
+- 🧑‍💼 [Connect on LinkedIn](https://www.linkedin.com/company/utmist/posts/?feedView=all)  
+- 📨 [Subscribe to our Newsletter](https://utorontomist.medium.com)
 
 ---
 
 ### 🧩 Questions?
 
-Reach out to us at **team@utmist.ca** or drop by our Discord!
+Reach out to us at **utorontomist@gmail.com** or drop by our Discord!
 
 > Built by students, powered by curiosity.
 
