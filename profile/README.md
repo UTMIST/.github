@@ -1,6 +1,6 @@
 # 🤖 UTMIST — University of Toronto Machine Intelligence Student Team
 
-Welcome to UTMIST, U of T’s premier undergraduate student organization dedicated to machine learning, artificial intelligence, and interdisciplinary innovation.
+Welcome to UTMIST, Canada's largest student-lead organization for Artificial Intelligence and Machine Learning.
 
 ## 🌟 About Us
 
